@@ -9,7 +9,7 @@
 
 ### Development
 Want to contribute? Great!
-Download  Android-Studio IDE for a opening easy.
+Download  Unity 3D for a opening easy.
 
 ### Todo's
 > BUG Collision  
